@@ -12,6 +12,7 @@ export class AppComponent {
 
 
   customerid='23456';
+  controlvalu="radio";
   getalret()
   {
     window.alert("Sucessfull");
